@@ -64,17 +64,5 @@ http://localhost:5173
 * Type any text in the input box
 * The app will show the number of letters entered
 
----
 
-## 🎯 Future Improvements
-
-* Add word count
-* Add character limit
-* Improve UI design
-
----
-
-## 📜 License
-
-This project is for learning purposes.
 
